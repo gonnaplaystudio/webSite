@@ -8,4 +8,4 @@ Los usuarios pueden darse de alta a la Newsletter.
 
 El administrador puede añadir proyectos, noticias y modificarlos.
 
-Los lenguajes utilizados para el desarrollo son: PHP, JavaScript, HTML y CSS.
+Los lenguajes utilizados para el desarrollo son: PHP, MySQL, JavaScript, HTML y CSS.
